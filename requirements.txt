@@ -9,3 +9,5 @@ tqdm
 pycocotools
 seaborn
 screeninfo
+tensorflow_addons
+sklearn
